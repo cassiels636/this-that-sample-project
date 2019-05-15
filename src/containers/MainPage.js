@@ -66,7 +66,7 @@ class MainPage extends Component {
                         />
                     </div>
                     <div id="text">
-                        <h1 id="what" className="padding">Wait, what does your startup do?</h1>
+                        <h1 id="what" className="padding">Wait, what does your startup do???</h1>
                         <h1 id="so" className="padding">So, basically, it's like a</h1>
                         {this.fetchedPairing()}
                     </div>
