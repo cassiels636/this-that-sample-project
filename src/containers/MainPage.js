@@ -75,7 +75,7 @@ class MainPage extends Component {
                 <div className="thinbar"/>
                 <div className="bottombar display-container">
                     <div className="display-left bottom-text">Copyright Stuff.</div>
-                    <div className="display-right bottom-text">Some Other Info. (Can't follow me on Twitter. I don't have one :/ )</div>
+                    <div className="display-right bottom-text">Some Other Info. (Can't follow me on Twitter. I don't have one :/)</div>
                 </div>
             </div>
         );
